@@ -1,8 +1,21 @@
 # BELOVED DAVID  
 
-Writing code. Teaching minds. Searching for meaning in the in-between.  
+I build, teach, and think in long arcs.  
+Code, creativity, and faith — three ways of naming the same search for meaning.  
 
-I work slow, but I build things that last.  
-Faith keeps the rhythm. Purpose sets the tone.  
+I move with intent, not haste.  
+Sometimes I write code that teaches; sometimes I teach code that awakens.  
+Both are ways of tracing purpose through logic.  
 
-Still learning. Still here.
+### What I’m learning  
+- Depth over display.  
+- The cost of clarity.  
+- How discipline fuels creation.  
+
+### Ongoing themes  
+Faith as architecture.  
+Excellence as worship.  
+Purpose as the code beneath everything.  
+
+I’m not chasing noise.  
+I’m tuning my craft toward what endures.
