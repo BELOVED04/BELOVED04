@@ -1,21 +1,21 @@
-# BELOVED DAVID  
+# BELOVED#
 
-I build, teach, and think in long arcs.  
-Code, creativity, and faith — three ways of naming the same search for meaning.  
+Learning Web Development & Cybersecurity
 
-I move with intent, not haste.  
-Sometimes I write code that teaches; sometimes I teach code that awakens.  
-Both are ways of tracing purpose through logic.  
+## Currently Learning
 
-### What I’m learning  
-- Depth over display.  
-- The cost of clarity.  
-- How discipline fuels creation.  
+- HTML, CSS & JavaScript
+- Git & GitHub
+- Web Development
+- Cybersecurity & Web Security
 
-### Ongoing themes  
-Faith as architecture.  
-Excellence as worship.  
-Purpose as the code beneath everything.  
+## Projects
 
-I’m not chasing noise.  
-I’m tuning my craft toward what endures.
+Building projects as I learn, experiment, and strengthen my understanding of programming and web development.
+
+## Interests
+
+- Web Engineering
+- Application Security
+- Ethical Hacking
+- Software Development
